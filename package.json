@@ -1,0 +1,33 @@
+{
+  "name": "prime-array",
+  "version": "1.0.0",
+  "description": "A JavaScript package for getting all prime numbers from an array.",
+  "main": "prime-array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "readme": "node ./node_modules/.bin/node-readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prosen-Ghosh/prime-array.git"
+  },
+  "keywords": [
+    "prime",
+    "number",
+    "array",
+    "element",
+    "sieve"
+  ],
+  "author": "Prosen Ghosh <prosenghosh25@gmail.com> (https://bd.linkedin.com/in/prosen-ghosh-baba9aa8)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prosen-Ghosh/prime-array/issues"
+  },
+  "homepage": "https://github.com/Prosen-Ghosh/prime-array#readme",
+  "dependencies": {
+    "prime-sieve": "^1.0.0"
+  },
+  "devDependencies": {
+    "node-readme": "^0.1.9"
+  }
+}
